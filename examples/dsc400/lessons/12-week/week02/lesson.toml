@@ -1,0 +1,23 @@
+title = "Big Data Stacks"
+lesson_number = 2
+
+objectives = [
+    "Compare and contrast different big data stacks"
+]
+
+resources = [
+    "[Amazon EMR](https://aws.amazon.com/emr/)",
+    "[Google Dataproc](https://cloud.google.com/dataproc)",
+    "[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)",
+    "[Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)",
+    "[Introducing the PLONK Stack](https://www.openfaas.com/blog/plonk-stack/)",
+    "[OpenFaaS stack](https://docs.openfaas.com/architecture/stack/)",
+]
+
+readings = [
+    "Chapter 2 in **Big Data Science and Analytics**",
+]
+
+supplemental = []
+
+submission_instructions = ""

@@ -1,0 +1,78 @@
+[[textbooks]]
+
+title = "Big Data Science & Analytics: A Hands-On Approach"
+short_title = "Big Data Science & Analytics"
+authors = [
+    "Bahga, Arshdeep",
+    "Madisetti, Vijay"
+]
+abstract = """
+We are living in the dawn of what has been termed as the "Fourth Industrial Revolution", which is marked through \
+the emergence of "cyber-physical systems" where software interfaces seamlessly over networks with physical systems, \
+such as sensors, smartphones, vehicles, power grids or buildings, to create a new world of Internet of Things (IoT). \
+Data and information are fuel of this new age where powerful analytics algorithms burn this fuel to generate decisions \
+that are expected to create a smarter and more efficient world for all of us to live in. This new area of technology \
+has been defined as Big Data Science and Analytics, and the industrial and academic communities are realizing this \
+as a competitive technology that can generate significant new wealth and opportunity. Big data is defined as \
+collections of datasets whose volume, velocity or variety is so large that it is difficult to store, manage, process \
+and analyze the data using traditional databases and data processing tools. Big data science and analytics deals with \
+collection, storage, processing and analysis of massive-scale data. Industry surveys, by Gartner and e-Skills, for \
+instance, predict that there will be over 2 million job openings for engineers and scientists trained in the area of \
+data science and analytics alone, and that the job market is in this area is growing at a 150 percent year-over-year \
+growth rate. We have written this textbook, as part of our expanding "A Hands-On Approach"(TM) series, to meet this \
+need at colleges and universities, and also for big data service providers who may be interested in offering a broader \
+perspective of this emerging field to accompany their customer and developer training programs. The typical reader is \
+expected to have completed a couple of courses in programming using traditional high-level languages at the \
+college-level, and is either a senior or a beginning graduate student in one of the science, technology, engineering \
+or mathematics (STEM) fields. An accompanying website for this book contains additional support for instruction and \
+learning (www.big-data-analytics-book.com) The book is organized into three main parts, comprising a total of twelve \
+chapters. Part I provides an introduction to big data, applications of big data, and big data science and analytics \
+patterns and architectures. A novel data science and analytics application system design methodology is proposed and \
+its realization through use of open-source big data frameworks is described. This methodology describes big data \
+analytics applications as realization of the proposed Alpha, Beta, Gamma and Delta models, that comprise tools and \
+frameworks for collecting and ingesting data from various sources into the big data analytics infrastructure, \
+distributed filesystems and non-relational (NoSQL) databases for data storage, and processing frameworks for batch \
+and real-time analytics. This new methodology forms the pedagogical foundation of this book. Part II introduces the \
+reader to various tools and frameworks for big data analytics, and the architectural and programming aspects of these \
+frameworks, with examples in Python. We describe Publish-Subscribe messaging frameworks (Kafka & Kinesis), \
+Source-Sink connectors (Flume), Database Connectors (Sqoop), Messaging Queues (RabbitMQ, ZeroMQ, RestMQ, Amazon SQS) \
+and custom REST, WebSocket and MQTT-based connectors. The reader is introduced to data storage, batch and real-time \
+analysis, and interactive querying frameworks including HDFS, Hadoop, MapReduce, YARN, Pig, Oozie, Spark, Solr, \
+HBase, Storm, Spark Streaming, Spark SQL, Hive, Amazon Redshift and Google BigQuery. Also described are serving \
+databases (MySQL, Amazon DynamoDB, Cassandra, MongoDB) and the Django Python web framework. Part III introduces the \
+reader to various machine learning algorithms with examples using the Spark MLlib and H2O frameworks, and \
+visualizations using frameworks such as Lightning, Pygal and Seaborn.
+"""
+edition = "1st Edition"
+date = 2016-04-15
+publisher = "VPT"
+isbn10 = "0996025537"
+isbn13 = "978-0996025539"
+
+[[ textbooks ]]
+title = "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
+short_title = "Weapons of Math Destruction"
+author = "O'Neil, Cathy"
+abstract = """
+Longlisted for the National Book Award | New York Times BestsellerA former Wall Street quant sounds an alarm on the \
+mathematical models that pervade modern life and threaten to rip apart our social fabric.We live in the age of the \
+algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a car loan, how \
+much we pay for health insurance—are being made not by humans, but by mathematical models. In theory, this should \
+lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated.But as Cathy O’Neil \
+reveals in this urgent and necessary book, the opposite is true. The models being used today are opaque, unregulated, \
+and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination: If a poor student can’t \
+get a loan because a lending model deems him too risky (by virtue of his zip code), he’s then cut off from the kind \
+of education that could pull him out of poverty, and a vicious spiral ensues. Models are propping up the lucky and \
+punishing the downtrodden, creating a “toxic cocktail for democracy.” Welcome to the dark side of Big Data.Tracing \
+the arc of a person’s life, O’Neil exposes the black box models that shape our future, both as individuals and as a \
+society. These “weapons of math destruction” score teachers and students, sort résumés, grant (or deny) loans, \
+evaluate workers, target voters, set parole, and monitor our health.O’Neil calls on modelers to take more \
+responsibility for their algorithms and on policy makers to regulate their use. But in the end, it’s up to us \
+to become more savvy about the models that govern our lives. This important book empowers us to ask the tough \
+questions, uncover the truth, and demand change.
+"""
+edition = "1st edition"
+date = 2016-09-06
+publisher = "Crown"
+isbn10 = "0553418831"
+isbn13 = "978-0553418835"

@@ -1,0 +1,14 @@
+title = "Data Acquisition"
+lesson_number = 5
+
+objectives = []
+
+resources = []
+
+readings = [
+    "Chapter 5 in **Big Data Science and Analytics**",
+]
+
+supplemental = []
+
+submission_instructions = ""

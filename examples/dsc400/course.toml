@@ -1,0 +1,31 @@
+school = "bellevue.edu"
+subject = "DSC"
+course_number = "400"
+title = "Big Data"
+
+description = """
+With the cost of data storage consistently decreasing, data volumes are increasing and organizations are no \
+longer forced to only store the bare minimum data. This course examines the technology required to analyze and \
+process Big Data. Topics include: Hadoop/MapReduce, Spark/RDD, Spark/Storm Streaming, TensorFlow, \
+Keras/Deep Learning, Kubernetes, and Docker.
+"""
+
+[[prerequisites]]
+title = "Data Mining"
+subject = "DSC"
+course_number = "360"
+
+[[prerequisites]]
+title = "Data Wrangling for Data Science"
+subject = "DSC"
+course_number = "350"
+required = false
+
+[[objectives]]
+title = ""
+
+[[topics]]
+title = "Topic 1"
+subtopics = [
+
+]

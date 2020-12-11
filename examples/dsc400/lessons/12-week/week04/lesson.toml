@@ -1,0 +1,18 @@
+title = "NoSQL Databases"
+lesson_number = 4
+
+objectives = []
+
+resources = [
+    "Dgraph",
+    "Druid",
+    "Clickhouse"
+]
+
+readings = [
+    "Chapter 4 in **Big Data Science and Analytics**",
+]
+
+supplemental = []
+
+submission_instructions = ""

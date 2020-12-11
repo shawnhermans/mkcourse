@@ -1,0 +1,31 @@
+- Introduction to Big data
+    - The V's
+    - Characteristics
+    - Examples
+    - Business Case and Adoption
+- Big Data Architecture, Infrastructure, and Patterns
+    - Kubernetes
+    - Hadoop
+- NoSQL Databases
+    - Key-value databases
+    - Document databases
+    - Column family databases
+    - Graph databases
+    - Time-series databases
+- Data Storage
+    - HDFS
+    - Object storage (e.g. AWS Simple Storage Service)
+    - Data Serialization
+- Batch Processing
+    - Hadoop and YARN
+    - MapReduce, Pig, Sqoop
+    - Spark
+- Stream Processing
+    - Spark Streaming
+    - Storm
+- Interactive Querying
+    - Hive
+    - Spark SQL
+    - Impala, Druid, etc...
+- Analytics, Visualization, and Serving
+- Legal and Ethics

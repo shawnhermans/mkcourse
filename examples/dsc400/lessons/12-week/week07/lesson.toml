@@ -1,0 +1,17 @@
+title = "Real-time Analysis"
+lesson_number = 7
+
+objectives = []
+
+resources = [
+    "Google Dataflow",
+    "AWS Kinesis"
+]
+
+readings = [
+    "Chapter 8 in **Big Data Science and Analytics**",
+]
+
+supplemental = []
+
+submission_instructions = ""

@@ -1,0 +1,21 @@
+title = "Introduction to Big Data"
+description = ""
+lesson_number = 1
+introduction = "intro.md"
+objectives = [
+    "Descriptive, diagnostic, predictive, and prescriptive analytics",
+    "Volume, velocity, variety, veracity, value",
+    "Ethics"
+]
+
+resources = [
+    "Something about ethics"
+]
+
+readings = [
+    "Chapter 1 in **Big Data Science and Analytics**",
+]
+
+supplemental = []
+
+submission_instructions = ""

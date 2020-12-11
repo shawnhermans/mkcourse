@@ -1,0 +1,19 @@
+title = "Interactive Querying"
+lesson_number = 8
+
+objectives = []
+
+resources = [
+    "Hive",
+    "Google BigQuery",
+    "Amazon RedShift",
+    "Spark SQL"
+]
+
+readings = [
+    "Chapter 9 in **Big Data Science and Analytics**",
+]
+
+supplemental = []
+
+submission_instructions = ""

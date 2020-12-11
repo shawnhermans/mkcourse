@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "mkcourse"
+version = "0.1.0"
+description = ""
+authors = ["Shawn Hermans <shawnhermans@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Jinja2 = "^2.11.2"
+tomlkit = "^0.7.0"
+PyYAML = "^5.3.1"
+Markdown = "^3.3.3"
+fire = "^0.3.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+mkdocs = "^1.1.2"
+mkdocs-material = "^6.1.7"
+mock = "^4.0.2"
+python-Levenshtein = "^0.12.0"
+hypothesis = "^5.43.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
